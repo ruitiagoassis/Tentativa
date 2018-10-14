@@ -6,7 +6,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    std::cout << "Hello World!\n" << std::endl; 
+
+
+	std::cout << 3 + 2 - 1 << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
